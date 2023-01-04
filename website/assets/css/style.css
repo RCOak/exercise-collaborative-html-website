@@ -13,3 +13,26 @@ body{
 .nav-link, .navbar-brand {
     color: #BDBDBD;
 }
+
+.first_heading {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+}
+
+.first_heading span {
+    margin: 15px;
+    color: #BDBDBD;
+}
+
+.first_heading p {
+    margin: 15px;
+}
+
+
+.walterwhite {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
